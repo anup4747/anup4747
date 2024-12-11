@@ -1,3 +1,6 @@
+
+<img src="https://i.pinimg.com/736x/e5/19/45/e519453566d01b8cccbb772ef5b5e40b.jpg" alt="Profile picture" style="width: 30%; height: 30%; transform: scale(1.10); border-radius: 50%;">
+ 
 <h1 align="center">Hi 👋, I'm Anup</h1>
 <h3 align="center">Hi👋!, I'm Anup, a Full Stack Developer with a passion for creating dynamic web applications. I excel at both front-end and back-end development, ensuring efficient and scalable solutions.</h3>
 
