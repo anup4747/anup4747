@@ -1,12 +1,8 @@
  
 <h1 align="center">Hi 👋, I'm Anup</h1>
-<h3 align="center">Hi👋!, I'm Anup, a Full Stack Developer with a passion for creating dynamic web applications. I excel at both front-end and back-end development, ensuring efficient and scalable solutions.</h3>
+<h3 align="center">Full Stack Developer with a passion for creating dynamic web applications. I excel at both front-end and back-end development, ensuring efficient and scalable solutions.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://type-script-react-three.vercel.app/](https://type-script-react-three.vercel.app/)
-
-- 💬 Ask me about **react, javascript etc**
+- 💬 Always available for work 
 
 - 📫 How to reach me **anupdcodes@gmail.com**
 
