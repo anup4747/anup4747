@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup</h1>
-<h3 align="center">Full Stack Developer and Data Science Developer</h3>
+<h3 align="center">Full Stack Developer and Data Science Engineer</h3>
 
 🔭 I’m currently working on **ChessXWebsocket**
 
